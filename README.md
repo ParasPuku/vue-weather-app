@@ -1,6 +1,6 @@
 # vue-weather-app
 
-# Live URL - paras-weather.netlify.app
+# Live URL - https://paras-weather.netlify.app/
 
 # Screenshots
 ![weather1](https://user-images.githubusercontent.com/65712411/177050310-0cca6f77-b618-45f8-92f6-1d6714ca2c83.JPG)
